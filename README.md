@@ -32,7 +32,7 @@ All datasets are public Kaggle CSVs intended for academic use.
 
 ### 2.1 Movie data – Rotten Tomatoes
 
-* File: `rotten_tomatoes_movies.csv`
+* Data: [`rotten_tomatoes_movies.csv`](https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset)
 * Key fields (after trimming):
 
   * `movie_title`
@@ -46,7 +46,7 @@ All datasets are public Kaggle CSVs intended for academic use.
 
 ### 2.2 Book metadata – Amazon Books
 
-* File: `books_data.csv`
+* Data: https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews
 * Key fields:
 
   * `Title`
@@ -56,7 +56,7 @@ All datasets are public Kaggle CSVs intended for academic use.
 
 ### 2.3 Book reviews & ratings – Amazon Books Reviews
 
-* File: `Books_rating.csv`
+* Data: https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews
 * Key fields:
 
   * `Title`
