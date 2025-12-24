@@ -4,6 +4,8 @@ This repository contains the code and artifacts for our AML course project:
 
 > **Goal:** given only a user’s *movie* taste, recommend *books* they are likely to enjoy – without any shared users, joint ratings, or cross-domain IDs.
 
+Please read the blog on this project [`here`](https://medium.com/@nathan.arimilli/semantic-bridges-llm-based-cross-domain-recommendation-from-movies-to-books-437a187c4ded)
+
 We build a semantic “bridge” between Rotten Tomatoes movies and Amazon books using sentence-level LLM embeddings, then compare:
 
 1. **In-domain baseline:** Neural Collaborative Filtering (NCF) on book-only ratings
